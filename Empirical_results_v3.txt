@@ -1,0 +1,839 @@
+===========================================================================
+UPDATED RESULTS — EXCLUDING FUTSUP
+===========================================================================
+
+===========================================================================
+RESULTS WITHOUT INTERPOLATION
+===========================================================================
+
+PERIOD — 2012-2022
+
+POOLED OLS: UNIVARIATE AND JOINT (No country or year effects) — S2012-2022
+Univariate models use original-scale data from the corresponding (ND) sheet, without region or income controls. The joint model uses standardized data, also without region or income controls.
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4087         NaN         NaN         NaN       NaN     0.5490
+Suskil SE      0.0840         NaN         NaN         NaN       NaN     0.1408
+Knoent            NaN      0.2758         NaN         NaN       NaN     0.1844
+Knoent SE         NaN      0.0529         NaN         NaN       NaN     0.0666
+Frfail            NaN         NaN     -0.0784         NaN       NaN    -0.1325
+Frfail SE         NaN         NaN      0.0757         NaN       NaN     0.0769
+Opport            NaN         NaN         NaN      0.1594       NaN     0.0550
+Opport SE         NaN         NaN         NaN      0.0663       NaN     0.1236
+RQ                NaN         NaN         NaN         NaN   -2.3087     0.0259
+RQ SE             NaN         NaN         NaN         NaN    1.3487     0.1191
+N            275.0000    275.0000    275.0000    275.0000  275.0000   275.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.4212      0.2301      0.0114      0.1267    0.0644     0.4697
+
+RANDOM EFFECTS: UNIVARIATE AND JOINT (Country random effects; no year effects) — S2012-2022
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.4382         NaN         NaN         NaN       NaN     0.2145
+Suskil SE                                 0.1133         NaN         NaN         NaN       NaN     0.1330
+Knoent                                       NaN      0.3280         NaN         NaN       NaN     0.1997
+Knoent SE                                    NaN      0.0424         NaN         NaN       NaN     0.0735
+Frfail                                       NaN         NaN      0.2365         NaN       NaN     0.0794
+Frfail SE                                    NaN         NaN      0.0988         NaN       NaN     0.0860
+Opport                                       NaN         NaN         NaN      0.2170       NaN     0.0038
+Opport SE                                    NaN         NaN         NaN      0.0946       NaN     0.0792
+RQ                                           NaN         NaN         NaN         NaN   -0.3137    -0.0186
+RQ SE                                        NaN         NaN         NaN         NaN    0.1685     0.1826
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.1180
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.3002
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.2059
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.3604
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN    -0.1844
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2772
+region_North America                         NaN         NaN         NaN         NaN       NaN     0.9444
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.4385
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN    -0.1716
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.3249
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.4031
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3591
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.1577
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3127
+N                                       275.0000    275.0000    275.0000    275.0000  275.0000   275.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.2713      0.2688      0.0883      0.0747    0.0179     0.4073
+
+FIXED EFFECTS: UNIVARIATE AND JOINT (Country and year fixed effects) — S2012-2022
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.3273         NaN         NaN         NaN       NaN     0.2515
+Suskil SE      0.1390         NaN         NaN         NaN       NaN     0.1459
+Knoent            NaN      0.3064         NaN         NaN       NaN     0.2516
+Knoent SE         NaN      0.0904         NaN         NaN       NaN     0.1001
+Frfail            NaN         NaN      0.1899         NaN       NaN     0.1078
+Frfail SE         NaN         NaN      0.1062         NaN       NaN     0.0993
+Opport            NaN         NaN         NaN      0.0602       NaN    -0.0217
+Opport SE         NaN         NaN         NaN      0.1089       NaN     0.1035
+RQ                NaN         NaN         NaN         NaN   -0.1573    -0.0783
+RQ SE             NaN         NaN         NaN         NaN    0.2983     0.3122
+N            275.0000    275.0000    275.0000    275.0000  275.0000   275.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.2404      0.2775      0.1064      0.0352    0.0076     0.3253
+
+PERIOD — 2019-2022
+
+POOLED OLS: UNIVARIATE AND JOINT (No country or year effects) — S2019-2022
+Univariate models use original-scale data from the corresponding (ND) sheet, without region or income controls. The joint model uses standardized data, also without region or income controls.
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil         0.2493         NaN         NaN         NaN         NaN       NaN     0.6543
+Suskil SE      0.0725         NaN         NaN         NaN         NaN       NaN     0.1795
+Knoent            NaN      0.1942         NaN         NaN         NaN       NaN     0.1887
+Knoent SE         NaN      0.0700         NaN         NaN         NaN       NaN     0.1377
+Frfail            NaN         NaN     -0.0690         NaN         NaN       NaN    -0.1631
+Frfail SE         NaN         NaN      0.1197         NaN         NaN       NaN     0.1138
+Opport            NaN         NaN         NaN      0.0931         NaN       NaN    -0.1457
+Opport SE         NaN         NaN         NaN      0.0513         NaN       NaN     0.1401
+Nbstat            NaN         NaN         NaN         NaN     -0.0016       NaN    -0.1828
+Nbstat SE         NaN         NaN         NaN         NaN      0.0978       NaN     0.1288
+RQ                NaN         NaN         NaN         NaN         NaN   -1.1990     0.1935
+RQ SE             NaN         NaN         NaN         NaN         NaN    1.8522     0.1579
+N            112.0000    112.0000    112.0000    112.0000    112.0000  112.0000   112.0000
+Countries     29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+R²             0.2070      0.1315      0.0063      0.0504      0.0000    0.0130     0.3109
+
+RANDOM EFFECTS: UNIVARIATE AND JOINT (Country random effects; no year effects) — S2019-2022
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil                                    0.4137         NaN         NaN         NaN         NaN       NaN     0.2687
+Suskil SE                                 0.1267         NaN         NaN         NaN         NaN       NaN     0.1620
+Knoent                                       NaN      0.2280         NaN         NaN         NaN       NaN     0.0622
+Knoent SE                                    NaN      0.1150         NaN         NaN         NaN       NaN     0.1113
+Frfail                                       NaN         NaN     -0.0165         NaN         NaN       NaN    -0.0041
+Frfail SE                                    NaN         NaN      0.0772         NaN         NaN       NaN     0.0780
+Opport                                       NaN         NaN         NaN      0.2462         NaN       NaN     0.1335
+Opport SE                                    NaN         NaN         NaN      0.0802         NaN       NaN     0.0992
+Nbstat                                       NaN         NaN         NaN         NaN      0.1203       NaN    -0.0353
+Nbstat SE                                    NaN         NaN         NaN         NaN      0.1236       NaN     0.0871
+RQ                                           NaN         NaN         NaN         NaN         NaN   -0.0628     0.1742
+RQ SE                                        NaN         NaN         NaN         NaN         NaN    0.1724     0.1566
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN         NaN       NaN     0.0223
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN         NaN       NaN     0.3311
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN         NaN       NaN     1.7450
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN         NaN       NaN     0.3129
+region_Middle East & North Africa            NaN         NaN         NaN         NaN         NaN       NaN     0.0754
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN         NaN       NaN     0.3275
+region_North America                         NaN         NaN         NaN         NaN         NaN       NaN     1.1977
+region_North America SE                      NaN         NaN         NaN         NaN         NaN       NaN     0.4774
+region_South Asia                            NaN         NaN         NaN         NaN         NaN       NaN    -0.1429
+region_South Asia SE                         NaN         NaN         NaN         NaN         NaN       NaN     0.4538
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN         NaN       NaN    -0.3460
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN         NaN       NaN     0.3385
+income_group_Lower-middle income             NaN         NaN         NaN         NaN         NaN       NaN    -0.3997
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN         NaN       NaN     0.2247
+income_group_Upper-middle income             NaN         NaN         NaN         NaN         NaN       NaN     0.5659
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN         NaN       NaN     0.2648
+N                                       112.0000    112.0000    112.0000    112.0000    112.0000  112.0000   112.0000
+Countries                                29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+R²                                        0.0952      0.0505      0.0004      0.0604      0.0107    0.0012     0.4533
+
+FIXED EFFECTS: UNIVARIATE AND JOINT (Country and year fixed effects) — S2019-2022
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil         0.3682         NaN         NaN         NaN         NaN       NaN     0.3093
+Suskil SE      0.3062         NaN         NaN         NaN         NaN       NaN     0.2835
+Knoent            NaN      0.1650         NaN         NaN         NaN       NaN     0.0968
+Knoent SE         NaN      0.1638         NaN         NaN         NaN       NaN     0.1178
+Frfail            NaN         NaN     -0.0299         NaN         NaN       NaN    -0.0478
+Frfail SE         NaN         NaN      0.1199         NaN         NaN       NaN     0.1417
+Opport            NaN         NaN         NaN      0.3926         NaN       NaN     0.3408
+Opport SE         NaN         NaN         NaN      0.1361         NaN       NaN     0.1536
+Nbstat            NaN         NaN         NaN         NaN      0.1855       NaN     0.0233
+Nbstat SE         NaN         NaN         NaN         NaN      0.1791       NaN     0.2016
+RQ                NaN         NaN         NaN         NaN         NaN    0.8464     0.8487
+RQ SE             NaN         NaN         NaN         NaN         NaN    0.4182     0.4391
+N            112.0000    112.0000    112.0000    112.0000    112.0000  112.0000   112.0000
+Countries     29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+Within R²      0.0346      0.0213     -0.0014      0.0421      0.0242    0.0115     0.0663
+
+===========================================================================
+RESULTS WITH INTERPOLATION
+===========================================================================
+
+PERIOD — 2012-2022
+
+POOLED OLS: UNIVARIATE AND JOINT (No country or year effects) — S2012-2022 (I)
+Univariate models use original-scale data from the corresponding (ND) sheet, without region or income controls. The joint model uses standardized data, also without region or income controls.
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4065         NaN         NaN         NaN       NaN     0.5564
+Suskil SE      0.0792         NaN         NaN         NaN       NaN     0.1349
+Knoent            NaN      0.2731         NaN         NaN       NaN     0.1898
+Knoent SE         NaN      0.0544         NaN         NaN       NaN     0.0655
+Frfail            NaN         NaN     -0.0806         NaN       NaN    -0.1372
+Frfail SE         NaN         NaN      0.0757         NaN       NaN     0.0767
+Opport            NaN         NaN         NaN      0.1602       NaN     0.0426
+Opport SE         NaN         NaN         NaN      0.0653       NaN     0.1197
+RQ                NaN         NaN         NaN         NaN   -2.2348     0.0401
+RQ SE             NaN         NaN         NaN         NaN    1.2759     0.1135
+N            286.0000    286.0000    286.0000    286.0000  286.0000   286.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.4221      0.2260      0.0118      0.1279    0.0608     0.4720
+
+RANDOM EFFECTS: UNIVARIATE AND JOINT (Country random effects; no year effects) — S2012-2022 (I)
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.4537         NaN         NaN         NaN       NaN     0.2433
+Suskil SE                                 0.1086         NaN         NaN         NaN       NaN     0.1253
+Knoent                                       NaN      0.3431         NaN         NaN       NaN     0.2200
+Knoent SE                                    NaN      0.0472         NaN         NaN       NaN     0.0813
+Frfail                                       NaN         NaN      0.2031         NaN       NaN     0.0390
+Frfail SE                                    NaN         NaN      0.0991         NaN       NaN     0.0898
+Opport                                       NaN         NaN         NaN      0.2251       NaN    -0.0148
+Opport SE                                    NaN         NaN         NaN      0.0965       NaN     0.0799
+RQ                                           NaN         NaN         NaN         NaN   -0.3253    -0.0298
+RQ SE                                        NaN         NaN         NaN         NaN    0.1555     0.1820
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.0619
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.3095
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.1692
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.3758
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN    -0.1544
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2915
+region_North America                         NaN         NaN         NaN         NaN       NaN     0.9542
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.4433
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN    -0.0511
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.3559
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.2804
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3497
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.0959
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3099
+N                                       286.0000    286.0000    286.0000    286.0000  286.0000   286.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.2741      0.2686      0.0601      0.0738    0.0189     0.4006
+
+FIXED EFFECTS: UNIVARIATE AND JOINT (Country and year fixed effects) — S2012-2022 (I)
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.3641         NaN         NaN         NaN       NaN     0.2942
+Suskil SE      0.1173         NaN         NaN         NaN       NaN     0.1324
+Knoent            NaN      0.3336         NaN         NaN       NaN     0.2795
+Knoent SE         NaN      0.0890         NaN         NaN       NaN     0.1033
+Frfail            NaN         NaN      0.1518         NaN       NaN     0.0592
+Frfail SE         NaN         NaN      0.1092         NaN       NaN     0.1049
+Opport            NaN         NaN         NaN      0.0755       NaN    -0.0365
+Opport SE         NaN         NaN         NaN      0.1054       NaN     0.1035
+RQ                NaN         NaN         NaN         NaN   -0.2542    -0.1774
+RQ SE             NaN         NaN         NaN         NaN    0.3441     0.3674
+N            286.0000    286.0000    286.0000    286.0000  286.0000   286.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.2457      0.2768      0.0721      0.0401    0.0118     0.3168
+
+PERIOD — 2019-2022
+
+POOLED OLS: UNIVARIATE AND JOINT (No country or year effects) — S2019-2022 (I)
+Univariate models use original-scale data from the corresponding (ND) sheet, without region or income controls. The joint model uses standardized data, also without region or income controls.
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil         0.2447         NaN         NaN         NaN         NaN       NaN     0.6417
+Suskil SE      0.0677         NaN         NaN         NaN         NaN       NaN     0.1779
+Knoent            NaN      0.1954         NaN         NaN         NaN       NaN     0.1841
+Knoent SE         NaN      0.0665         NaN         NaN         NaN       NaN     0.1328
+Frfail            NaN         NaN     -0.0604         NaN         NaN       NaN    -0.1619
+Frfail SE         NaN         NaN      0.1179         NaN         NaN       NaN     0.1146
+Opport            NaN         NaN         NaN      0.0976         NaN       NaN    -0.1482
+Opport SE         NaN         NaN         NaN      0.0507         NaN       NaN     0.1410
+Nbstat            NaN         NaN         NaN         NaN      0.0098       NaN    -0.1783
+Nbstat SE         NaN         NaN         NaN         NaN      0.0970       NaN     0.1261
+RQ                NaN         NaN         NaN         NaN         NaN   -1.3556     0.1845
+RQ SE             NaN         NaN         NaN         NaN         NaN    1.8433     0.1563
+N            116.0000    116.0000    116.0000    116.0000    116.0000  116.0000   116.0000
+Countries     29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+R²             0.2171      0.1420      0.0048      0.0572      0.0002    0.0168     0.3175
+
+RANDOM EFFECTS: UNIVARIATE AND JOINT (Country random effects; no year effects) — S2019-2022 (I)
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil                                    0.4660         NaN         NaN         NaN         NaN       NaN     0.3091
+Suskil SE                                 0.1301         NaN         NaN         NaN         NaN       NaN     0.1605
+Knoent                                       NaN      0.2546         NaN         NaN         NaN       NaN     0.0698
+Knoent SE                                    NaN      0.1201         NaN         NaN         NaN       NaN     0.1097
+Frfail                                       NaN         NaN     -0.0533         NaN         NaN       NaN    -0.0302
+Frfail SE                                    NaN         NaN      0.0826         NaN         NaN       NaN     0.0767
+Opport                                       NaN         NaN         NaN      0.2748         NaN       NaN     0.1424
+Opport SE                                    NaN         NaN         NaN      0.0808         NaN       NaN     0.0988
+Nbstat                                       NaN         NaN         NaN         NaN      0.1204       NaN    -0.0273
+Nbstat SE                                    NaN         NaN         NaN         NaN      0.1201       NaN     0.0887
+RQ                                           NaN         NaN         NaN         NaN         NaN   -0.0746     0.1531
+RQ SE                                        NaN         NaN         NaN         NaN         NaN    0.1724     0.1609
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN         NaN       NaN    -0.0000
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN         NaN       NaN     0.3431
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN         NaN       NaN     1.5718
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN         NaN       NaN     0.3515
+region_Middle East & North Africa            NaN         NaN         NaN         NaN         NaN       NaN    -0.0121
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN         NaN       NaN     0.3382
+region_North America                         NaN         NaN         NaN         NaN         NaN       NaN     1.1605
+region_North America SE                      NaN         NaN         NaN         NaN         NaN       NaN     0.4953
+region_South Asia                            NaN         NaN         NaN         NaN         NaN       NaN    -0.2811
+region_South Asia SE                         NaN         NaN         NaN         NaN         NaN       NaN     0.4540
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN         NaN       NaN    -0.2549
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN         NaN       NaN     0.3442
+income_group_Lower-middle income             NaN         NaN         NaN         NaN         NaN       NaN    -0.4252
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN         NaN       NaN     0.2288
+income_group_Upper-middle income             NaN         NaN         NaN         NaN         NaN       NaN     0.4460
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN         NaN       NaN     0.2907
+N                                       116.0000    116.0000    116.0000    116.0000    116.0000  116.0000   116.0000
+Countries                                29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+R²                                        0.1196      0.0589      0.0034      0.0702      0.0100    0.0018     0.4265
+
+FIXED EFFECTS: UNIVARIATE AND JOINT (Country and year fixed effects) — S2019-2022 (I)
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport  (5) Nbstat    (6) RQ  (7) Joint
+Suskil         0.5106         NaN         NaN         NaN         NaN       NaN     0.4158
+Suskil SE      0.2871         NaN         NaN         NaN         NaN       NaN     0.2751
+Knoent            NaN      0.1942         NaN         NaN         NaN       NaN     0.0985
+Knoent SE         NaN      0.1687         NaN         NaN         NaN       NaN     0.1161
+Frfail            NaN         NaN     -0.0846         NaN         NaN       NaN    -0.0698
+Frfail SE         NaN         NaN      0.1218         NaN         NaN       NaN     0.1329
+Opport            NaN         NaN         NaN      0.4489         NaN       NaN     0.3794
+Opport SE         NaN         NaN         NaN      0.1470         NaN       NaN     0.1670
+Nbstat            NaN         NaN         NaN         NaN      0.1854       NaN     0.0061
+Nbstat SE         NaN         NaN         NaN         NaN      0.1789       NaN     0.2032
+RQ                NaN         NaN         NaN         NaN         NaN    0.7681     0.8212
+RQ SE             NaN         NaN         NaN         NaN         NaN    0.4418     0.4324
+N            116.0000    116.0000    116.0000    116.0000    116.0000  116.0000   116.0000
+Countries     29.0000     29.0000     29.0000     29.0000     29.0000   29.0000    29.0000
+Within R²      0.0699      0.0304      0.0013      0.0533      0.0212    0.0060     0.1038
+
+PREDICTIVE RESULTS — NON-INTERPOLATED — t+1
+Predictors in calendar year t; TEA outcome in exactly year t+1.
+Only exact country-year matches from S2012-2022 are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.3759         NaN         NaN         NaN       NaN     0.5288
+Suskil SE      0.0899         NaN         NaN         NaN       NaN     0.1520
+Knoent            NaN      0.2081         NaN         NaN       NaN     0.0525
+Knoent SE         NaN      0.0565         NaN         NaN       NaN     0.0628
+Frfail            NaN         NaN     -0.1220         NaN       NaN    -0.1496
+Frfail SE         NaN         NaN      0.0738         NaN       NaN     0.0818
+Opport            NaN         NaN         NaN      0.1389       NaN     0.0962
+Opport SE         NaN         NaN         NaN      0.0679       NaN     0.1307
+RQ                NaN         NaN         NaN         NaN   -2.2875    -0.0229
+RQ SE             NaN         NaN         NaN         NaN    1.4386     0.1421
+N            243.0000    243.0000    243.0000    243.0000  243.0000   243.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3286      0.1186      0.0266      0.0941    0.0617     0.3653
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.2705         NaN         NaN         NaN       NaN     0.1222
+Suskil SE                                 0.1036         NaN         NaN         NaN       NaN     0.1211
+Knoent                                       NaN      0.1666         NaN         NaN       NaN     0.0662
+Knoent SE                                    NaN      0.0581         NaN         NaN       NaN     0.0830
+Frfail                                       NaN         NaN      0.2096         NaN       NaN     0.1473
+Frfail SE                                    NaN         NaN      0.0841         NaN       NaN     0.0942
+Opport                                       NaN         NaN         NaN      0.0804       NaN    -0.0241
+Opport SE                                    NaN         NaN         NaN      0.0976       NaN     0.0827
+RQ                                           NaN         NaN         NaN         NaN   -0.1934     0.0949
+RQ SE                                        NaN         NaN         NaN         NaN    0.1486     0.1893
+N                                       243.0000    243.0000    243.0000    243.0000  243.0000   243.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0979      0.0699      0.0642      0.0105    0.0070     0.2604
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.1624
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.2394
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.6013
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2645
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN    -0.0109
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2581
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.0579
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.3754
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN    -0.3794
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2579
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.0447
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3500
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.3286
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3500
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.0961         NaN         NaN         NaN       NaN     0.0989
+Suskil SE      0.1225         NaN         NaN         NaN       NaN     0.1351
+Knoent            NaN      0.0504         NaN         NaN       NaN    -0.0012
+Knoent SE         NaN      0.1324         NaN         NaN       NaN     0.1356
+Frfail            NaN         NaN      0.2135         NaN       NaN     0.1873
+Frfail SE         NaN         NaN      0.1013         NaN       NaN     0.0982
+Opport            NaN         NaN         NaN     -0.1138       NaN    -0.1250
+Opport SE         NaN         NaN         NaN      0.1075       NaN     0.1059
+RQ                NaN         NaN         NaN         NaN   -0.0029     0.3537
+RQ SE             NaN         NaN         NaN         NaN    0.2723     0.3369
+N            243.0000    243.0000    243.0000    243.0000  243.0000   243.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0457      0.0370      0.0899     -0.0454    0.0000     0.0801
+
+PREDICTIVE RESULTS — NON-INTERPOLATED — t+2
+Predictors in calendar year t; TEA outcome in exactly year t+2.
+Only exact country-year matches from S2012-2022 are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4018         NaN         NaN         NaN       NaN     0.5823
+Suskil SE      0.0851         NaN         NaN         NaN       NaN     0.1594
+Knoent            NaN      0.1978         NaN         NaN       NaN    -0.0128
+Knoent SE         NaN      0.0632         NaN         NaN       NaN     0.0859
+Frfail            NaN         NaN     -0.1580         NaN       NaN    -0.1578
+Frfail SE         NaN         NaN      0.0693         NaN       NaN     0.0762
+Opport            NaN         NaN         NaN      0.1527       NaN     0.1487
+Opport SE         NaN         NaN         NaN      0.0712       NaN     0.1249
+RQ                NaN         NaN         NaN         NaN   -2.2882    -0.0308
+RQ SE             NaN         NaN         NaN         NaN    1.4838     0.1404
+N            219.0000    219.0000    219.0000    219.0000  219.0000   219.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3429      0.0950      0.0444      0.1071    0.0605     0.3943
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.2957         NaN         NaN         NaN       NaN     0.1283
+Suskil SE                                 0.0900         NaN         NaN         NaN       NaN     0.1195
+Knoent                                       NaN      0.1551         NaN         NaN       NaN     0.0597
+Knoent SE                                    NaN      0.0661         NaN         NaN       NaN     0.0878
+Frfail                                       NaN         NaN      0.1726         NaN       NaN     0.1207
+Frfail SE                                    NaN         NaN      0.0686         NaN       NaN     0.0638
+Opport                                       NaN         NaN         NaN      0.0700       NaN    -0.0182
+Opport SE                                    NaN         NaN         NaN      0.1009       NaN     0.0984
+RQ                                           NaN         NaN         NaN         NaN   -0.2759    -0.0073
+RQ SE                                        NaN         NaN         NaN         NaN    0.1606     0.1858
+N                                       219.0000    219.0000    219.0000    219.0000  219.0000   219.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0973      0.0514      0.0386      0.0067    0.0147     0.2733
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.1355
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.1837
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.6188
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2512
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN    -0.0529
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2291
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.2278
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.3706
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN    -0.0970
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2350
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.1175
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3647
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.1752
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3607
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.1469         NaN         NaN         NaN       NaN     0.1337
+Suskil SE      0.1147         NaN         NaN         NaN       NaN     0.1362
+Knoent            NaN      0.0571         NaN         NaN       NaN     0.0033
+Knoent SE         NaN      0.0910         NaN         NaN       NaN     0.0952
+Frfail            NaN         NaN      0.2056         NaN       NaN     0.1603
+Frfail SE         NaN         NaN      0.0828         NaN       NaN     0.0698
+Opport            NaN         NaN         NaN     -0.1052       NaN    -0.0983
+Opport SE         NaN         NaN         NaN      0.1164       NaN     0.1214
+RQ                NaN         NaN         NaN         NaN   -0.3220    -0.0704
+RQ SE             NaN         NaN         NaN         NaN    0.3382     0.4386
+N            219.0000    219.0000    219.0000    219.0000  219.0000   219.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0479      0.0315      0.0658     -0.0265    0.0074     0.0739
+
+PREDICTIVE RESULTS — NON-INTERPOLATED — t+3
+Predictors in calendar year t; TEA outcome in exactly year t+3.
+Only exact country-year matches from S2012-2022 are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4385         NaN         NaN         NaN       NaN     0.6357
+Suskil SE      0.0847         NaN         NaN         NaN       NaN     0.1547
+Knoent            NaN      0.2214         NaN         NaN       NaN    -0.0438
+Knoent SE         NaN      0.0675         NaN         NaN       NaN     0.0941
+Frfail            NaN         NaN     -0.2216         NaN       NaN    -0.2100
+Frfail SE         NaN         NaN      0.0673         NaN       NaN     0.0760
+Opport            NaN         NaN         NaN      0.1575       NaN     0.1491
+Opport SE         NaN         NaN         NaN      0.0724       NaN     0.1255
+RQ                NaN         NaN         NaN         NaN   -2.1887    -0.0283
+RQ SE             NaN         NaN         NaN         NaN    1.5818     0.1485
+N            195.0000    195.0000    195.0000    195.0000  195.0000   195.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3500      0.0822      0.0797      0.1096    0.0513     0.4167
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.3158         NaN         NaN         NaN       NaN     0.1424
+Suskil SE                                 0.0962         NaN         NaN         NaN       NaN     0.1190
+Knoent                                       NaN      0.1820         NaN         NaN       NaN     0.1113
+Knoent SE                                    NaN      0.0689         NaN         NaN       NaN     0.0863
+Frfail                                       NaN         NaN      0.0896         NaN       NaN     0.0508
+Frfail SE                                    NaN         NaN      0.0817         NaN       NaN     0.0879
+Opport                                       NaN         NaN         NaN      0.0643       NaN    -0.0666
+Opport SE                                    NaN         NaN         NaN      0.1174       NaN     0.1161
+RQ                                           NaN         NaN         NaN         NaN   -0.2178     0.0384
+RQ SE                                        NaN         NaN         NaN         NaN    0.1354     0.1938
+N                                       195.0000    195.0000    195.0000    195.0000  195.0000   195.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0916      0.0479      0.0085      0.0055    0.0089     0.2602
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN     0.0148
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.2264
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.7478
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2824
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN     0.0129
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2798
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.4388
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.4163
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN    -0.2666
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2466
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN     0.1265
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3742
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.2852
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3584
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.1509         NaN         NaN         NaN       NaN     0.1524
+Suskil SE      0.1036         NaN         NaN         NaN       NaN     0.1116
+Knoent            NaN      0.0849         NaN         NaN       NaN     0.0162
+Knoent SE         NaN      0.0983         NaN         NaN       NaN     0.1122
+Frfail            NaN         NaN      0.1510         NaN       NaN     0.0914
+Frfail SE         NaN         NaN      0.1115         NaN       NaN     0.1022
+Opport            NaN         NaN         NaN     -0.1478       NaN    -0.1571
+Opport SE         NaN         NaN         NaN      0.1408       NaN     0.1419
+RQ                NaN         NaN         NaN         NaN   -0.1661     0.0767
+RQ SE             NaN         NaN         NaN         NaN    0.4003     0.4958
+N            195.0000    195.0000    195.0000    195.0000  195.0000   195.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0386      0.0348      0.0262     -0.0394    0.0012     0.0363
+
+PREDICTIVE RESULTS — NON-INTERPOLATED — t+5
+Predictors in calendar year t; TEA outcome in exactly year t+5.
+Only exact country-year matches from S2012-2022 are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4651         NaN         NaN         NaN       NaN     0.5958
+Suskil SE      0.1038         NaN         NaN         NaN       NaN     0.1592
+Knoent            NaN      0.1643         NaN         NaN       NaN    -0.2312
+Knoent SE         NaN      0.1493         NaN         NaN       NaN     0.1499
+Frfail            NaN         NaN     -0.3591         NaN       NaN    -0.3054
+Frfail SE         NaN         NaN      0.0777         NaN       NaN     0.1020
+Opport            NaN         NaN         NaN      0.2026       NaN     0.2717
+Opport SE         NaN         NaN         NaN      0.0823       NaN     0.1201
+RQ                NaN         NaN         NaN         NaN   -2.1201    -0.1124
+RQ SE             NaN         NaN         NaN         NaN    1.7163     0.1544
+N            145.0000    145.0000    145.0000    145.0000  145.0000   145.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3106      0.0245      0.2010      0.1587    0.0455     0.4732
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.3024         NaN         NaN         NaN       NaN     0.0087
+Suskil SE                                 0.1424         NaN         NaN         NaN       NaN     0.2053
+Knoent                                       NaN      0.0537         NaN         NaN       NaN     0.0247
+Knoent SE                                    NaN      0.1261         NaN         NaN       NaN     0.2067
+Frfail                                       NaN         NaN     -0.2282         NaN       NaN    -0.1261
+Frfail SE                                    NaN         NaN      0.1093         NaN       NaN     0.1029
+Opport                                       NaN         NaN         NaN      0.0798       NaN    -0.0413
+Opport SE                                    NaN         NaN         NaN      0.1236       NaN     0.1330
+RQ                                           NaN         NaN         NaN         NaN   -0.2834    -0.1525
+RQ SE                                        NaN         NaN         NaN         NaN    0.1770     0.1774
+N                                       145.0000    145.0000    145.0000    145.0000  145.0000   145.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0425      0.0019      0.0309      0.0053    0.0174     0.2885
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN     0.1958
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.3575
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     2.0017
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.3991
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN     0.1237
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2872
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.8112
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.6810
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN     0.1572
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.3659
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.1605
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.5054
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN    -0.0404
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.5784
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil        -0.0537         NaN         NaN         NaN       NaN    -0.0049
+Suskil SE      0.1736         NaN         NaN         NaN       NaN     0.2956
+Knoent            NaN     -0.0492         NaN         NaN       NaN    -0.0108
+Knoent SE         NaN      0.1249         NaN         NaN       NaN     0.3096
+Frfail            NaN         NaN     -0.0399         NaN       NaN    -0.0767
+Frfail SE         NaN         NaN      0.1707         NaN       NaN     0.2093
+Opport            NaN         NaN         NaN     -0.1580       NaN    -0.1653
+Opport SE         NaN         NaN         NaN      0.1484       NaN     0.1551
+RQ                NaN         NaN         NaN         NaN   -0.1988    -0.1322
+RQ SE             NaN         NaN         NaN         NaN    0.4697     0.4839
+N            145.0000    145.0000    145.0000    145.0000  145.0000   145.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²     -0.0009     -0.0026      0.0025     -0.0057    0.0077     0.0034
+
+PREDICTIVE RESULTS — INTERPOLATED — t+1
+Predictors in calendar year t; TEA outcome in exactly year t+1.
+Only exact country-year matches from S2012-2022 (I) are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.3715         NaN         NaN         NaN       NaN     0.5392
+Suskil SE      0.0862         NaN         NaN         NaN       NaN     0.1432
+Knoent            NaN      0.1979         NaN         NaN       NaN     0.0481
+Knoent SE         NaN      0.0591         NaN         NaN       NaN     0.0619
+Frfail            NaN         NaN     -0.1193         NaN       NaN    -0.1504
+Frfail SE         NaN         NaN      0.0738         NaN       NaN     0.0790
+Opport            NaN         NaN         NaN      0.1398       NaN     0.0775
+Opport SE         NaN         NaN         NaN      0.0662       NaN     0.1235
+RQ                NaN         NaN         NaN         NaN   -2.2095    -0.0031
+RQ SE             NaN         NaN         NaN         NaN    1.3692     0.1357
+N            260.0000    260.0000    260.0000    260.0000  260.0000   260.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3292      0.1085      0.0247      0.0959    0.0578     0.3619
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.2876         NaN         NaN         NaN       NaN     0.1503
+Suskil SE                                 0.1019         NaN         NaN         NaN       NaN     0.1204
+Knoent                                       NaN      0.1741         NaN         NaN       NaN     0.0669
+Knoent SE                                    NaN      0.0638         NaN         NaN       NaN     0.0876
+Frfail                                       NaN         NaN      0.1777         NaN       NaN     0.1155
+Frfail SE                                    NaN         NaN      0.0893         NaN       NaN     0.0978
+Opport                                       NaN         NaN         NaN      0.1117       NaN    -0.0058
+Opport SE                                    NaN         NaN         NaN      0.1011       NaN     0.0856
+RQ                                           NaN         NaN         NaN         NaN   -0.2360     0.0355
+RQ SE                                        NaN         NaN         NaN         NaN    0.1384     0.1886
+N                                       260.0000    260.0000    260.0000    260.0000  260.0000   260.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.1102      0.0702      0.0441      0.0190    0.0102     0.2544
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.0359
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.2292
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.6252
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2647
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN     0.0755
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2497
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.1054
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.3380
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN     0.0011
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2543
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.0957
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3384
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.1847
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3328
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.1110         NaN         NaN         NaN       NaN     0.1339
+Suskil SE      0.1095         NaN         NaN         NaN       NaN     0.1355
+Knoent            NaN      0.0445         NaN         NaN       NaN     0.0024
+Knoent SE         NaN      0.1216         NaN         NaN       NaN     0.1282
+Frfail            NaN         NaN      0.1708         NaN       NaN     0.1420
+Frfail SE         NaN         NaN      0.1040         NaN       NaN     0.1053
+Opport            NaN         NaN         NaN     -0.0864       NaN    -0.1099
+Opport SE         NaN         NaN         NaN      0.1095       NaN     0.1111
+RQ                NaN         NaN         NaN         NaN   -0.0829     0.2080
+RQ SE             NaN         NaN         NaN         NaN    0.2570     0.3509
+N            260.0000    260.0000    260.0000    260.0000  260.0000   260.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0560      0.0322      0.0634     -0.0374    0.0017     0.0734
+
+PREDICTIVE RESULTS — INTERPOLATED — t+2
+Predictors in calendar year t; TEA outcome in exactly year t+2.
+Only exact country-year matches from S2012-2022 (I) are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.3895         NaN         NaN         NaN       NaN     0.5770
+Suskil SE      0.0829         NaN         NaN         NaN       NaN     0.1457
+Knoent            NaN      0.1806         NaN         NaN       NaN    -0.0133
+Knoent SE         NaN      0.0654         NaN         NaN       NaN     0.0800
+Frfail            NaN         NaN     -0.1523         NaN       NaN    -0.1621
+Frfail SE         NaN         NaN      0.0689         NaN       NaN     0.0722
+Opport            NaN         NaN         NaN      0.1505       NaN     0.1188
+Opport SE         NaN         NaN         NaN      0.0690       NaN     0.1219
+RQ                NaN         NaN         NaN         NaN   -2.2067    -0.0141
+RQ SE             NaN         NaN         NaN         NaN    1.4616     0.1398
+N            234.0000    234.0000    234.0000    234.0000  234.0000   234.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3289      0.0793      0.0396      0.1041    0.0555     0.3728
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.2745         NaN         NaN         NaN       NaN     0.1244
+Suskil SE                                 0.0856         NaN         NaN         NaN       NaN     0.1202
+Knoent                                       NaN      0.1457         NaN         NaN       NaN     0.0535
+Knoent SE                                    NaN      0.0665         NaN         NaN       NaN     0.0848
+Frfail                                       NaN         NaN      0.1443         NaN       NaN     0.1024
+Frfail SE                                    NaN         NaN      0.0726         NaN       NaN     0.0683
+Opport                                       NaN         NaN         NaN      0.0864       NaN    -0.0001
+Opport SE                                    NaN         NaN         NaN      0.0988       NaN     0.0974
+RQ                                           NaN         NaN         NaN         NaN   -0.2701    -0.0291
+RQ SE                                        NaN         NaN         NaN         NaN    0.1548     0.1842
+N                                       234.0000    234.0000    234.0000    234.0000  234.0000   234.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0876      0.0439      0.0267      0.0101    0.0135     0.2453
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN    -0.0028
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.1962
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.6898
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2597
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN     0.0296
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2482
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.2533
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.3154
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN     0.0042
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2407
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.1404
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3522
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.1389
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3475
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.1256         NaN         NaN         NaN       NaN     0.1400
+Suskil SE      0.1033         NaN         NaN         NaN       NaN     0.1368
+Knoent            NaN      0.0428         NaN         NaN       NaN    -0.0048
+Knoent SE         NaN      0.0859         NaN         NaN       NaN     0.0917
+Frfail            NaN         NaN      0.1756         NaN       NaN     0.1375
+Frfail SE         NaN         NaN      0.0868         NaN       NaN     0.0754
+Opport            NaN         NaN         NaN     -0.0918       NaN    -0.1044
+Opport SE         NaN         NaN         NaN      0.1155       NaN     0.1189
+RQ                NaN         NaN         NaN         NaN   -0.2431     0.0096
+RQ SE             NaN         NaN         NaN         NaN    0.3066     0.3953
+N            234.0000    234.0000    234.0000    234.0000  234.0000   234.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0416      0.0224      0.0473     -0.0265    0.0061     0.0514
+
+PREDICTIVE RESULTS — INTERPOLATED — t+3
+Predictors in calendar year t; TEA outcome in exactly year t+3.
+Only exact country-year matches from S2012-2022 (I) are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4224         NaN         NaN         NaN       NaN     0.6237
+Suskil SE      0.0842         NaN         NaN         NaN       NaN     0.1481
+Knoent            NaN      0.1850         NaN         NaN       NaN    -0.0599
+Knoent SE         NaN      0.0733         NaN         NaN       NaN     0.0854
+Frfail            NaN         NaN     -0.2165         NaN       NaN    -0.2095
+Frfail SE         NaN         NaN      0.0676         NaN       NaN     0.0743
+Opport            NaN         NaN         NaN      0.1550       NaN     0.1345
+Opport SE         NaN         NaN         NaN      0.0707       NaN     0.1232
+RQ                NaN         NaN         NaN         NaN   -2.1274    -0.0196
+RQ SE             NaN         NaN         NaN         NaN    1.5374     0.1439
+N            208.0000    208.0000    208.0000    208.0000  208.0000   208.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3395      0.0616      0.0754      0.1074    0.0496     0.4022
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.3057         NaN         NaN         NaN       NaN     0.1521
+Suskil SE                                 0.0987         NaN         NaN         NaN       NaN     0.1185
+Knoent                                       NaN      0.1555         NaN         NaN       NaN     0.0738
+Knoent SE                                    NaN      0.0739         NaN         NaN       NaN     0.0904
+Frfail                                       NaN         NaN      0.0683         NaN       NaN     0.0444
+Frfail SE                                    NaN         NaN      0.0816         NaN       NaN     0.0843
+Opport                                       NaN         NaN         NaN      0.0784       NaN    -0.0358
+Opport SE                                    NaN         NaN         NaN      0.1164       NaN     0.1199
+RQ                                           NaN         NaN         NaN         NaN   -0.2586    -0.0237
+RQ SE                                        NaN         NaN         NaN         NaN    0.1338     0.2041
+N                                       208.0000    208.0000    208.0000    208.0000  208.0000   208.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0857      0.0352      0.0047      0.0076    0.0125     0.2502
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN     0.0124
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.2205
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     1.7025
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.2905
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN    -0.0251
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2736
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.3464
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.3762
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN     0.0637
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.2436
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.0650
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3899
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN     0.1469
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.3649
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.1580         NaN         NaN         NaN       NaN     0.1848
+Suskil SE      0.0894         NaN         NaN         NaN       NaN     0.1056
+Knoent            NaN      0.0599         NaN         NaN       NaN    -0.0126
+Knoent SE         NaN      0.0935         NaN         NaN       NaN     0.1097
+Frfail            NaN         NaN      0.1341         NaN       NaN     0.0757
+Frfail SE         NaN         NaN      0.1040         NaN       NaN     0.0917
+Opport            NaN         NaN         NaN     -0.1282       NaN    -0.1437
+Opport SE         NaN         NaN         NaN      0.1379       NaN     0.1396
+RQ                NaN         NaN         NaN         NaN   -0.3302    -0.1015
+RQ SE             NaN         NaN         NaN         NaN    0.3668     0.4456
+N            208.0000    208.0000    208.0000    208.0000  208.0000   208.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0362      0.0221      0.0189     -0.0336    0.0058     0.0270
+
+PREDICTIVE RESULTS — INTERPOLATED — t+5
+Predictors in calendar year t; TEA outcome in exactly year t+5.
+Only exact country-year matches from S2012-2022 (I) are included; matches across absent years are excluded.
+Univariate pooled OLS uses original-scale data from the corresponding (ND) sheet and excludes region and income-group controls.
+Joint pooled OLS uses standardized predictors without region or income-group controls. Random effects include region and income-group controls from year t.
+Fixed effects include country and outcome-year effects.
+
+PREDICTIVE POOLED OLS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil         0.4436         NaN         NaN         NaN       NaN     0.5862
+Suskil SE      0.1005         NaN         NaN         NaN       NaN     0.1546
+Knoent            NaN      0.1184         NaN         NaN       NaN    -0.2616
+Knoent SE         NaN      0.1406         NaN         NaN       NaN     0.1380
+Frfail            NaN         NaN     -0.3416         NaN       NaN    -0.2989
+Frfail SE         NaN         NaN      0.0749         NaN       NaN     0.0959
+Opport            NaN         NaN         NaN      0.1983       NaN     0.2590
+Opport SE         NaN         NaN         NaN      0.0795       NaN     0.1201
+RQ                NaN         NaN         NaN         NaN   -2.0519    -0.0919
+RQ SE             NaN         NaN         NaN         NaN    1.7419     0.1566
+N            156.0000    156.0000    156.0000    156.0000  156.0000   156.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²             0.3016      0.0141      0.1796      0.1533    0.0430     0.4553
+
+PREDICTIVE RANDOM EFFECTS
+                                      (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil                                    0.2162         NaN         NaN         NaN       NaN     0.0040
+Suskil SE                                 0.1264         NaN         NaN         NaN       NaN     0.1795
+Knoent                                       NaN      0.0006         NaN         NaN       NaN    -0.0029
+Knoent SE                                    NaN      0.1116         NaN         NaN       NaN     0.1972
+Frfail                                       NaN         NaN     -0.2406         NaN       NaN    -0.1542
+Frfail SE                                    NaN         NaN      0.1043         NaN       NaN     0.0978
+Opport                                       NaN         NaN         NaN      0.0619       NaN    -0.0426
+Opport SE                                    NaN         NaN         NaN      0.1171       NaN     0.1282
+RQ                                           NaN         NaN         NaN         NaN   -0.2833    -0.1713
+RQ SE                                        NaN         NaN         NaN         NaN    0.1711     0.1747
+N                                       156.0000    156.0000    156.0000    156.0000  156.0000   156.0000
+Countries                                26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+R²                                        0.0260      0.0000      0.0359      0.0029    0.0164     0.2845
+region_Europe & Central Asia                 NaN         NaN         NaN         NaN       NaN     0.2522
+region_Europe & Central Asia SE              NaN         NaN         NaN         NaN       NaN     0.3379
+region_Latin America & Caribbean             NaN         NaN         NaN         NaN       NaN     2.0253
+region_Latin America & Caribbean SE          NaN         NaN         NaN         NaN       NaN     0.3641
+region_Middle East & North Africa            NaN         NaN         NaN         NaN       NaN     0.1750
+region_Middle East & North Africa SE         NaN         NaN         NaN         NaN       NaN     0.2765
+region_North America                         NaN         NaN         NaN         NaN       NaN     1.8414
+region_North America SE                      NaN         NaN         NaN         NaN       NaN     0.6289
+region_Sub-Saharan Africa                    NaN         NaN         NaN         NaN       NaN     0.1964
+region_Sub-Saharan Africa SE                 NaN         NaN         NaN         NaN       NaN     0.3689
+income_group_Lower-middle income             NaN         NaN         NaN         NaN       NaN    -0.2256
+income_group_Lower-middle income SE          NaN         NaN         NaN         NaN       NaN     0.5124
+income_group_Upper-middle income             NaN         NaN         NaN         NaN       NaN    -0.0791
+income_group_Upper-middle income SE          NaN         NaN         NaN         NaN       NaN     0.5704
+
+PREDICTIVE COUNTRY AND YEAR FIXED EFFECTS
+           (1) Suskil  (2) Knoent  (3) Frfail  (4) Opport    (5) RQ  (6) Joint
+Suskil        -0.0245         NaN         NaN         NaN       NaN     0.0509
+Suskil SE      0.1269         NaN         NaN         NaN       NaN     0.2639
+Knoent            NaN     -0.0537         NaN         NaN       NaN    -0.0270
+Knoent SE         NaN      0.1006         NaN         NaN       NaN     0.2886
+Frfail            NaN         NaN     -0.0923         NaN       NaN    -0.1227
+Frfail SE         NaN         NaN      0.1493         NaN       NaN     0.1933
+Opport            NaN         NaN         NaN     -0.1481       NaN    -0.1664
+Opport SE         NaN         NaN         NaN      0.1412       NaN     0.1554
+RQ                NaN         NaN         NaN         NaN   -0.2383    -0.2146
+RQ SE             NaN         NaN         NaN         NaN    0.4314     0.4530
+N            156.0000    156.0000    156.0000    156.0000  156.0000   156.0000
+Countries     26.0000     26.0000     26.0000     26.0000   26.0000    26.0000
+Within R²      0.0005     -0.0003      0.0090     -0.0024    0.0093     0.0167
